@@ -19,7 +19,7 @@ A modern **React + TypeScript** frontend project with clean code structure, ESLi
 
 ---
 
-## 🚀 Getting Started
+🚀 Getting Started
 
  1️⃣ Clone the repository
 ```bash
