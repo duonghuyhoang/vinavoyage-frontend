@@ -21,8 +21,8 @@ A modern **React + TypeScript** frontend project with clean code structure, ESLi
 
 🚀 Getting Started
 
- 1️⃣ Clone the repository
 ```bash
+ 1️⃣ Clone the repository
 git clone https://github.com/duonghuyhoang/vinavoyage-frontend.git
 cd vinavoyage-frontend
 
@@ -65,3 +65,5 @@ Create a new branch (feature/your-feature)
 Commit your changes
 
 Push and create a Pull Request
+
+```bash
