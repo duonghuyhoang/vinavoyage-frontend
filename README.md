@@ -21,24 +21,24 @@ A modern **React + TypeScript** frontend project with clean code structure, ESLi
 
 ## 🚀 Getting Started
 
-### 1️⃣ Clone the repository
+ 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/duonghuyhoang/vinavoyage-frontend.git
 cd vinavoyage-frontend
 
-###2️⃣ Install dependencies
+2️⃣ Install dependencies
 npm install
 
-###3️⃣ Run in development
+3️⃣ Run in development
 npm run dev
 
 
 👉 Project will start at http://localhost:3000
 
-###4️⃣ Build for production
+4️⃣ Build for production
 npm run build
 
-###5️⃣ Preview production build
+5️⃣ Preview production build
 npm run preview
 
 
