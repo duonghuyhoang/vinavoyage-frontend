@@ -66,4 +66,3 @@ Commit your changes
 
 Push and create a Pull Request
 
-```bash
